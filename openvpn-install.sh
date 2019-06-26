@@ -375,10 +375,9 @@ dev tun
 proto $PROTOCOL
 sndbuf 0
 rcvbuf 0
-remote SCK
 remote $IP $PORT
 http-proxy 10.4.4.4 8080
-http-proxy-option CUSTOM-HEADER "Host: line.naver.jp"
+http-proxy-option CUSTOM-HEADER Host truevisions.tv.line.naver.jp
 resolv-retry infinite
 nobind
 persist-key
