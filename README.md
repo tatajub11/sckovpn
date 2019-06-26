@@ -1,5 +1,5 @@
 # sckovpn
-Script VPN Port 443 รองรับ Ubutu 14-18 Debian 8-9 C os ทุกเวอร์
+Script VPN Port 443 รองรับ Debian 8-9
 
 ----×--×[วิธีใช้]---×-×-×----
 
