@@ -1,10 +1,12 @@
 # sckovpn
-Script VPN Port 443
+Script VPN Port 443 รองรับ Ubutu 14-18 Debian 8-9 C os ทุกเวอร์
 
 ----×--×[วิธีใช้]---×-×-×----
 
+
 1. wget https://raw.githubusercontent.com/tatajub11/sckovpn/master/openvpn-install.sh
 2. bash openvpn-install.sh
+
 
 เข้าใช้งานโดยรูทอัตโนมัติ
 
