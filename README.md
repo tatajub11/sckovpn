@@ -8,7 +8,7 @@ Script VPN Port 443
 
 เข้าใช้งานโดยรูทอัตโนมัติ
 
-• wget https://raw.githubusercontent.com/tatajub11/sckovpn/master/sshd_config
-       • chmod +x sshd_config
-       • ./sshd_config
+1. wget https://raw.githubusercontent.com/tatajub11/sckovpn/master/sshd_config
+       2. chmod +x sshd_config
+       3 ./sshd_config
        FB:ยลยุทธ วันชาติ YouTube:Scriptking SCK
