@@ -1,13 +1,13 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/openvpn-install
+# https://raw.githubusercontent.com/tatajub11/sckovpn/master/openvpn-install.sh
 #
-# Copyright (c) 2013 Nyr. Released under the MIT License.
+# Copyright (c) 2019 BY Scriptking SCK.
 
 
 if grep -qs "Ubuntu 16.04" "/etc/os-release"; then
 	echo 'Ubuntu 16.04 is no longer supported in the current version of openvpn-install
-Use an older version if Ubuntu 16.04 support is needed: https://git.io/vpn1604'
+Use an older version if Ubuntu 16.04 support is needed:https://raw.githubusercontent.com/tatajub11/sckovpn/master/openvpn-install.sh '
 	exit
 fi
 
